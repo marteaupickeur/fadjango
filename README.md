@@ -9,4 +9,4 @@ The API provides two entities :
 - Question 
 - Choice
 
-And with my app yu will have the interface to make CRUD on the API.
+And with my app you will have the interface to make CRUD on the API.
