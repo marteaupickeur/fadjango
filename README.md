@@ -10,3 +10,6 @@ The API provides two entities :
 - Choice
 
 And with my app you will have the interface to make CRUD on the API.
+
+### Version
+version : 0
