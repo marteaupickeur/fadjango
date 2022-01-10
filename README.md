@@ -1,5 +1,5 @@
 # fadjango
-A simple Flutter 
+A simple Flutter Application
 ## Description
 A flutter app named "fadjango" wich use an API based on django.
 
