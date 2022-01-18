@@ -7,7 +7,7 @@ class Splash extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
         body: Padding(
-      padding: const EdgeInsets.all(208.0),
+      padding: const EdgeInsets.all(28.0),
       child: Center(
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.end,
